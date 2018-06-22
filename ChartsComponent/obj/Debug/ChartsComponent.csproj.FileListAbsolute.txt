@@ -1,0 +1,10 @@
+/Users/sjadhav/Projects/ChartsComponent/ChartsComponent/bin/Debug/ChartsComponent.dll
+/Users/sjadhav/Projects/ChartsComponent/ChartsComponent/bin/Debug/ChartsComponent.pdb
+/Users/sjadhav/Projects/ChartsComponent/ChartsComponent/bin/Debug/Mono.Android.dll
+/Users/sjadhav/Projects/ChartsComponent/ChartsComponent/bin/Debug/System.ValueTuple.dll
+/Users/sjadhav/Projects/ChartsComponent/ChartsComponent/bin/Debug/System.ValueTuple.xml
+/Users/sjadhav/Projects/ChartsComponent/ChartsComponent/bin/Debug/Mono.Android.pdb
+/Users/sjadhav/Projects/ChartsComponent/ChartsComponent/obj/Debug/ChartsComponent.csprojResolveAssemblyReference.cache
+/Users/sjadhav/Projects/ChartsComponent/ChartsComponent/obj/Debug/ChartsComponent.csproj.CoreCompileInputs.cache
+/Users/sjadhav/Projects/ChartsComponent/ChartsComponent/obj/Debug/ChartsComponent.dll
+/Users/sjadhav/Projects/ChartsComponent/ChartsComponent/obj/Debug/ChartsComponent.pdb
